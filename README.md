@@ -1,4 +1,4 @@
-# Mera_chat_Bot
+# QuickBite-Assistant
 
 A simple chatbot that lets users order food from “Pandeyji Eatery.”  
 Backend is a FastAPI webhook, orders are saved in MySQL, and there’s a small static website with the menu.
